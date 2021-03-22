@@ -1,0 +1,44 @@
+{
+    "Vnshop": {
+        "name": "Vnshop",
+        "order": 0,
+        "data": [
+            {
+                "src": "https://zos.alipayobjects.com/rmsportal/ZjfIAdkDVlpnilf.jpg",
+                "text": "Landing Test1",
+                "textEn": "Landing Test 1",
+                "uid": 0
+            },
+            {
+                "src": "https://gw.alipayobjects.com/mdn/rms_ae7ad9/afts/img/A*luthRonCYuQAAAAAAAAAAABkARQnAQ",
+                "text": "Landing Test 2 ",
+                "textEn": "Landing Test 2",
+                "uid": 1
+            }
+        ]
+    },
+    "Vnpay": {
+        "name": "Vnpay",
+        "order": 1,
+        "data": [
+            {
+                "src": "https://zos.alipayobjects.com/rmsportal/gyseCGEPqWjQpYF.jpg",
+                "text": "单图",
+                "textEn": "Landing Test 1",
+                "uid": 0
+            },
+            {
+                "src": "https://zos.alipayobjects.com/rmsportal/chnhazooyzrjWSv.jpg",
+                "text": "多图",
+                "textEn": "Landing Test 2",
+                "uid": 1
+            },
+            {
+                "src": "https://zos.alipayobjects.com/rmsportal/xLbbmipjHaqSoJSXhIzP.jpg",
+                "text": "特性动画",
+                "textEn": "Landing Test 3",
+                "uid": 2
+            }
+        ]
+    }
+}
